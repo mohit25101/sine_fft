@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/DELL/OneDrive/Desktop/vivado_projects/sine_fft_matlab/sine_fft_matlab.srcs/sim_1/new/tb_xfft.vhd" into library xil_defaultlib
+WARNING: [VRFC 10-393] cannot access 'infile' from inside pure function 'load_ip_table'. [C:/Users/DELL/OneDrive/Desktop/vivado_projects/sine_fft_matlab/sine_fft_matlab.srcs/sim_1/new/tb_xfft.vhd:191]
+WARNING: [VRFC 10-393] cannot access 'infile' from inside pure function 'load_ip_table'. [C:/Users/DELL/OneDrive/Desktop/vivado_projects/sine_fft_matlab/sine_fft_matlab.srcs/sim_1/new/tb_xfft.vhd:193]
+WARNING: [VRFC 10-3608] overwriting existing secondary unit 'tb' [C:/Users/DELL/OneDrive/Desktop/vivado_projects/sine_fft_matlab/sine_fft_matlab.srcs/sim_1/new/tb_xfft.vhd:76]

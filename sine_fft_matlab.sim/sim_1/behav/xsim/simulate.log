@@ -1,0 +1,53 @@
+Time resolution is 1 ps
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 0 ps  Iteration: 0  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - C_CHANNELS  = 1
+Time: 0 ps  Iteration: 0  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - field_width = 10
+Time: 0 ps  Iteration: 0  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - Copying SCALE_SCH from 10 downto 1 to 10 downto 1
+Time: 0 ps  Iteration: 0  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 319360 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - C_CHANNELS  = 1
+Time: 319360 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - field_width = 10
+Time: 319360 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - Copying SCALE_SCH from 10 downto 1 to 10 downto 1
+Time: 319360 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 320260 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - C_CHANNELS  = 1
+Time: 320260 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - field_width = 10
+Time: 320260 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - Copying SCALE_SCH from 10 downto 1 to 10 downto 1
+Time: 320260 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 1051160 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - C_CHANNELS  = 1
+Time: 1051160 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - field_width = 10
+Time: 1051160 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - Copying SCALE_SCH from 10 downto 1 to 10 downto 1
+Time: 1051160 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 1154460 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - C_CHANNELS  = 1
+Time: 1154460 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - field_width = 10
+Time: 1154460 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - Copying SCALE_SCH from 10 downto 1 to 10 downto 1
+Time: 1154460 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - SCALING_SCH: in_ptr = 1, out_ptr = 1
+Time: 1256860 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - C_CHANNELS  = 1
+Time: 1256860 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:     - field_width = 10
+Time: 1256860 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Note:   - Copying SCALE_SCH from 10 downto 1 to 10 downto 1
+Time: 1256860 ns  Iteration: 1  Process: /tb_xfft_0/dut/U0/i_synth/axi_wrapper/gen_config_fifo_in/line__94240  File: D:/2025.2/Vivado/data/ip/xilinx/xfft_v9_1/hdl/xfft_v9_1_vh_rfs.vhd
+Failure: Not a real failure. Simulation finished successfully. Test completed successfully
+Time: 1678650 ns  Iteration: 0  Process: /tb_xfft_0/data_stimuli  File: C:/Users/DELL/OneDrive/Desktop/vivado_projects/sine_fft_matlab/sine_fft_matlab.srcs/sim_1/new/tb_xfft.vhd
+$finish called at time : 1678650 ns : File "C:/Users/DELL/OneDrive/Desktop/vivado_projects/sine_fft_matlab/sine_fft_matlab.srcs/sim_1/new/tb_xfft.vhd" Line 462
+INFO: xsimkernel Simulation Memory Usage: 39064 KB (Peak: 39064 KB), Simulation CPU Usage: 54139 ms

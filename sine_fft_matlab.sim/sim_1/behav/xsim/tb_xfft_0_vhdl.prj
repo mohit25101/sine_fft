@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../sine_fft_matlab.gen/sources_1/ip/xfft_0/sim/xfft_0.vhd" \
+"../../../../sine_fft_matlab.srcs/sim_1/new/tb_xfft.vhd" \
+
+# Do not sort compile order
+nosort
